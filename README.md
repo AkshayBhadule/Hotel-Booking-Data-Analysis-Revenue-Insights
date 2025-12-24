@@ -99,7 +99,7 @@ Key steps performed:
 ---
 
 ## 🚀 Conclusion
-This project demonstrates how data-driven analysis can help hotels optimize pricing strategies, reduce cancellations, improve customer experience, and identify high-value booking channels I created this in CDAC training.
+This project demonstrates how data-driven analysis can help hotels optimize pricing strategies, reduce cancellations, enhance customer experience, and identify high-value booking channels. The project was developed as part of my CDAC training, applying real-world data analysis techniques using Python.
 
 ---
 
